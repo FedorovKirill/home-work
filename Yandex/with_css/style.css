@@ -1,0 +1,31 @@
+body {
+	color: blue; 
+	font-size: 20px;
+} 
+.text-block {
+	margin: 15px 0; 
+	background: #f2f2f2;
+	color: tomato;
+}
+.container {
+	width: 600px;
+}
+
+h1 {
+	color: green;
+	font-size: 30px;
+}
+
+table {
+	border: 8px solid #ccc;
+}
+
+li {
+ 	font-size: 18px;
+	margin: 5px 0;
+}
+
+ul {
+	margin: 58 px;
+	padding: 0;
+}
